@@ -9,7 +9,7 @@ for (var i = 0; i < classmates.length; i++) {
   button.innerHTML = "How many tacos did " + classmate + " eat?";
 
   button.addEventListener("click", function() {
-    var tacoCount = i * 2;
+  var tacoCount = i * 2;
 
     alert(classmate + " ate " + tacoCount + " tacos.");
 
