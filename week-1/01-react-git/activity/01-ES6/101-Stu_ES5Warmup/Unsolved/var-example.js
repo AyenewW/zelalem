@@ -12,7 +12,7 @@ var tinyize = function(name) {
 
 var name = tinyize("Rick");
 log(name); // output: ?
-log(myName); // output: ?
+log(myName); // output: ?cd
 
 log(i); // output: ?
 for (var i = 0; i < 5; i++) {
